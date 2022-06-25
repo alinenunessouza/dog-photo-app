@@ -1,0 +1,1 @@
+export { DogPhoto } from './dog-photo/dog-photo.component'

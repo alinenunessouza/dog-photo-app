@@ -1,0 +1,27 @@
+
+.container {
+  background-color: #AED6F1;
+  height: 100vh;
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+h1 {
+  margin: 0;
+  padding-top: 10px;
+  font-size: 50px;
+}
+
+.dogs {
+  width: 90vw;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.dogs .photo-card {
+  margin: 10px 10px;
+}
